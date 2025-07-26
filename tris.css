@@ -39,6 +39,7 @@ td:after {
 	margin: auto;
 	padding: 40px 0;
 	border: solid 5px black;
+	background: black;
 }
 
 [data-sign=X]:before {
